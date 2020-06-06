@@ -6,15 +6,15 @@
 </template>
 
 <script>
-import mainTabBar from "components/content/mainTabBar/mainTabBar";
-export default {
-  name: "App",
-  components: {
-    mainTabBar
-  }
-};
+  import mainTabBar from "components/content/mainTabBar/mainTabBar";
+  export default {
+    name: "App",
+    components: {
+      mainTabBar
+    }
+  };
 </script>
 
 <style>
-@import "assets/css/base.css";
+  @import "assets/css/base.css";
 </style>

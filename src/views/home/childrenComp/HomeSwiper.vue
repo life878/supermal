@@ -30,4 +30,7 @@ export default {
 </script>
 
 <style scoped>
+  .homeSwiper {
+    margin-top: 44px; 
+  }
 </style>
